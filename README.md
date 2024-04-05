@@ -14,5 +14,5 @@
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/tu_usuario/tu_proyecto.svg?style=social)](https://github.com/tu_usuario/tu_proyecto/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/tu_usuario/tu_proyecto.svg?style=social)](https://github.com/zjonkg/CuteRecipes)
 [![GitHub forks](https://img.shields.io/github/forks/tu_usuario/tu_proyecto.svg?style=social)](https://github.com/tu_usuario/tu_proyecto/network/members)
