@@ -1,3 +1,0 @@
-﻿  AppRecipes.cpp
-D:\M5\SearchRecipes\AppRecipes\AppRecipes.cpp(81,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-  AppRecipes.vcxproj -> D:\M5\SearchRecipes\x64\Debug\AppRecipes.exe
