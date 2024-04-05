@@ -14,5 +14,4 @@
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/tu_usuario/tu_proyecto.svg?style=social)]
-[![GitHub forks](https://img.shields.io/github/forks/tu_usuario/tu_proyecto.svg?style=social)]
+
